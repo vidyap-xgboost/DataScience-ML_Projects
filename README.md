@@ -1,4 +1,7 @@
-# Welcome!
+# Data Science - ML Projects
+![GitHub forks](https://img.shields.io/github/forks/vidyap-xgboost/DataScience-ML_Projects?label=Fork&style=plastic) ![GitHub stars](https://img.shields.io/github/stars/vidyap-xgboost/DataScience-ML_Projects?style=plastic) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vidyap-xgboost/DataScience-ML_Projects?style=plastic)
+
+# Welcome! 
 This repo contains projects on NLP, Computer Vision, web scraping, etc., using different libraries. I'm looking forward to use libraries which are lesser known and could be potentially useful to spin up a quick prototype before using any *sophisticated* models.
 
 
